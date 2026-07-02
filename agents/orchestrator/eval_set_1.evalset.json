@@ -1,0 +1,38 @@
+{
+  "eval_set_id": "eval_set_1",
+  "name": "eval_set_1",
+  "eval_cases": [
+    {
+      "eval_id": "xin_cho",
+      "conversation": [
+        {
+          "invocation_id": "e-dd99917a-2840-42c5-9631-5870842c2891",
+          "user_content": {
+            "parts": [
+              {
+                "text": "xin chào"
+              }
+            ],
+            "role": "user"
+          },
+          "final_response": {
+            "parts": [
+              {
+                "text": "Chào bạn, tôi có thể giúp gì cho bạn hôm nay?\n"
+              }
+            ],
+            "role": "model"
+          },
+          "intermediate_data": {},
+          "creation_timestamp": 1782975784.947141
+        }
+      ],
+      "session_input": {
+        "app_name": "orchestrator",
+        "user_id": "user"
+      },
+      "creation_timestamp": 1782975821.2178316
+    }
+  ],
+  "creation_timestamp": 1782975808.934226
+}
